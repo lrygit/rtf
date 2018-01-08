@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rtf", "rtf.csproj", "{E7A34785-0BB5-4574-A2A3-57296CAF1E78}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rtf.Editor", "rtf.Editor.csproj", "{E047AAE2-C0EE-A066-1886-D420E0C55E4C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{E7A34785-0BB5-4574-A2A3-57296CAF1E78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7A34785-0BB5-4574-A2A3-57296CAF1E78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7A34785-0BB5-4574-A2A3-57296CAF1E78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E047AAE2-C0EE-A066-1886-D420E0C55E4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E047AAE2-C0EE-A066-1886-D420E0C55E4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E047AAE2-C0EE-A066-1886-D420E0C55E4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E047AAE2-C0EE-A066-1886-D420E0C55E4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
